@@ -1,5 +1,4 @@
-## Hi there 👋
-- 👋 I’m Ujjwal
+# Hi there 👋, I'm Ujjwal
 - 👀 Data Scientist in making !
 - 🌱 Computational Biology student 
 - 💞️ Looking to collaborate on Bioinformatics, ML and EDA projects
