@@ -3,4 +3,4 @@
 - 🌱 Computational Biology student 
 - 💞️ Looking to collaborate on Bioinformatics, ML and EDA projects
 - ⚡ Caffeine addict
-- 📫 Reach me ..... brocode0088@yahoo.com
+- 📫 Reach me ..... brocode98@yahoo.com
